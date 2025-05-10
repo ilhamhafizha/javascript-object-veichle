@@ -28,4 +28,4 @@ if (kendaraan.jenis === "Mobil" || kendaraan.jenis === "mobil") {
   }
 }
 
-alert(`Biaya Parkir untuk kendaraan ${kendaraan.jenis} adalah ${biayaParkir}`);
+alert(`Biaya Parkir untuk kendaraan ${kendaraan.jenis} dengan lama parkir ${kendaraan.lamaParkir} adalah ${biayaParkir}`);
